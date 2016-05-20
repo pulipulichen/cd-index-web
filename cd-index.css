@@ -1,0 +1,18 @@
+.flag {
+	clear:both;
+	font-weight: bold;
+	cursor:pointer;
+}
+.dir-name {
+	font-weight: bold;
+	cursor:pointer;
+}
+.found {
+	color:red;
+}
+.counter-label {
+	display:none;
+}
+.search-complete {
+	display:none;
+}

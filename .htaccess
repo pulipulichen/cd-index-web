@@ -1,0 +1,4 @@
+AuthName "CD Index" 
+AuthType Basic 
+AuthUserFile "D:/CD Index/Database/.htpasswd"
+Require valid-user
